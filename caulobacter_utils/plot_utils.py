@@ -21,7 +21,4 @@ def get_n_categories_cmap(n):
     cmap = np.tile(cmap, (n // 10 + 1, 1))
     hex_cmap = ['#%02x%02x%02x' % tuple(triplet) for triplet in cmap]
     return hex_cmap
-
-
-
-    return bac_raw_data
+    

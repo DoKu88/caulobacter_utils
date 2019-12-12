@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: caulobacter-utils
+Version: 0.0.1
+Summary: A package for bebi103 Homework 9.3.
+Home-page: UNKNOWN
+Author: Marcus Dominguez-Kuhne
+Author-email: mddoming@caltech.edu
+License: UNKNOWN
+Description: # This is a README.md
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: ext/markdown
